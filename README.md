@@ -1,1 +1,1 @@
-![Inverted Tree](/static/inverted_tree.png?raw=true "Inverted Tree")
+![Inverted Tree](https://github.com/notweerdmonk/notweerdmonk/blob/main/static/inverted_tee.png?raw=true "Inverted Tree")
