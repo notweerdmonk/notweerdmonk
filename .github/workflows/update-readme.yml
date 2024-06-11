@@ -1,0 +1,25 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - "README.md"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Update README
+        uses: notweerdmonk/update-readme-action@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.UPDATE_README_GITHUB_TOKEN }}
+          NUM_RECENT: 5
+        with:
+          github_token: ${{ secrets.UPDATE_README_GITHUB_TOKEN }}
+          username: notweerdmonk
+          num_recent: 5
