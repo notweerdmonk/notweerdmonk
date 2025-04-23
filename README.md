@@ -7,8 +7,8 @@
 ##### Latest Repositories
 
 <!-- Featured Repositories Start -->
-- [test-update-readme-action](https://github.com/notweerdmonk/test-update-readme-action)
-  - Description: No description provided.
+- [notweerdmonk](https://github.com/notweerdmonk/notweerdmonk)
+  - Description: Config files for my GitHub profile.
 - [csafe](https://github.com/notweerdmonk/csafe)
   - Description: Safe functions with convenient error reporting
 - [linters](https://github.com/notweerdmonk/linters)
