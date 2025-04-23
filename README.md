@@ -7,15 +7,15 @@
 ##### Latest Repositories
 
 <!-- Featured Repositories Start -->
+- [update-readme-action](https://github.com/notweerdmonk/update-readme-action)
+  - Description: Fetch and inject data into the readme.
+- [scripts](https://github.com/notweerdmonk/scripts)
+  - Description: Scripts
 - [notweerdmonk](https://github.com/notweerdmonk/notweerdmonk)
   - Description: Config files for my GitHub profile.
-- [csafe](https://github.com/notweerdmonk/csafe)
-  - Description: Safe functions with convenient error reporting
-- [linters](https://github.com/notweerdmonk/linters)
-  - Description: Linters and formatters
 - [cfsm](https://github.com/notweerdmonk/cfsm)
   - Description: Compile-time finite state machine library
-- [scripts](https://github.com/notweerdmonk/scripts)
+- [notweerdmonk.github.io](https://github.com/notweerdmonk/notweerdmonk.github.io)
   - Description: No description provided.
 
 <!-- Featured Repositories End -->
