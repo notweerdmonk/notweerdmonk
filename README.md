@@ -7,8 +7,6 @@
 ##### Latest Repositories
 
 <!-- Featured Repositories Start -->
-- [notweerdmonk](https://github.com/notweerdmonk/notweerdmonk)
-  - Description: Config files for my GitHub profile.
 - [scripts](https://github.com/notweerdmonk/scripts)
   - Description: Scripts
 - [cfsm](https://github.com/notweerdmonk/cfsm)
